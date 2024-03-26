@@ -1,1 +1,1 @@
-# fullstack-demo-app-contract-models
+# fullstack-demo-app-api-models
